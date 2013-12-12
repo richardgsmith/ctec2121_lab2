@@ -52,7 +52,7 @@ void func3()
 		if(inputA >-10 && inputA <=10)
 		{
 			printf("Please enter a longitude\n");
-			scanf("%d", &inputA);
+			scanf("%d", &inputB);
 			if(inputB > -180 && inputB < 180)
 			{
 			   if (inputB >-15 && inputB <=40)
