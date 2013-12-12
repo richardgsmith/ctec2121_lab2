@@ -86,6 +86,7 @@ int main( int argc, char **argv)
 	
 	while (1)
 	{
+		option=0;
 		printf("Please choose which function you wish to test [1..3] or 0 to quit and hit return \n");
 		if (option==0) 
 		{
